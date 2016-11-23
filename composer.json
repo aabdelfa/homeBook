@@ -1,0 +1,16 @@
+{
+    "name": "alsApp",
+    "description": "This is the composer package for my App",
+    "license": "MIT",
+    "homepage": "http://laravel.com",
+    "authors": [
+        {
+            "name": "Alaa Abdelfattah",
+            "email": "aabdelfa@icloud.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.5.9"
+    },
+    "minimum-stability": "dev"
+}
